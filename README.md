@@ -7,7 +7,8 @@ So it´s basically a simulation of n-body systems with certain mass that attract
 It´s all constructed using the Newton gravity equation **`F=G*m1*m2/r^2`** and force equation **`F=m*a`**
 <br><br>
 
-<h1 align="center">![SIMPLEGIF](https://github.com/user-attachments/assets/88332cd7-2891-44f3-8c6d-9a9e013db4ec)
+<h1 align="center">
+    ![SIMPLEGIF](https://github.com/user-attachments/assets/88332cd7-2891-44f3-8c6d-9a9e013db4ec)
 
 <br><br>
 
