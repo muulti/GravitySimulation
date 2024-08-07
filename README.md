@@ -8,15 +8,15 @@
     <br><br>
 </div>
 
-<div align="center">
+<p align="center">
     ![SIMPLEGIF](https://github.com/user-attachments/assets/88332cd7-2891-44f3-8c6d-9a9e013db4ec)
     <br><br>
-</div>
+</p>
 
 <h2 align="center"><b>Realtime drawn trajectories</b></h2>
 <br>
 
-<div align="center">
+<p align="center">
     Trajectories drawn having in mind the influence of mass, position, velocity and your personal gravitatory constant haha.
     <br><br>
 
@@ -25,18 +25,18 @@
 
     ![LINERENDERERGIF](https://github.com/user-attachments/assets/98c9ff68-ba5e-491c-9e83-41bbc4d966a8)
     <br><br>
-</div>
+</p>
 
 <h2 align="center"><b>Relative point of view</b></h2>
 <br>
 
-<div align="center">
+<p align="center">
     Still working on this. You can choose one planet to center the camera and redraw the way the trajectories would be seen from that planet´s point of view.
     <br><br>
 
     ![RELATIVEGIF](https://github.com/user-attachments/assets/52d20932-0179-43ca-9b20-c219d9be0f3a)
     <br><br>
-</div>
+</p>
 
 <h2 align="center"><b>Other cool stuff</b></h2>
 <br>
