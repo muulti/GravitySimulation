@@ -4,7 +4,7 @@
 <div align="center">
     So it´s basically a simulation of n-body systems with certain mass that attract each other. 
     <br>
-    It´s all constructed using the Newton gravity equation **`F=G*m1*m2/r^2`** and force equation **`F=m*a`**
+    It´s all constructed using the Newton gravity equation F=G*m1*m2/r^2 and force equation F=m*a
     <br><br>
 </div>
 
@@ -50,6 +50,7 @@
     <img src="https://github.com/user-attachments/assets/75973b3d-758e-4229-9e77-21ac180d0b32" alt="W8GIF">
     <br><br>
 </p>
-<p align="center">
--Here´s the paper **`https://www.researchgate.net/publication/28135560_A_Remarkable_Periodic_Solution_of_the_Three-Body_Problem_in_the_Case_of_Equal_Masses`**
+<p align="left">
+-Here´s the paper: https://www.researchgate.net/publication/28135560_A_Remarkable_Periodic_Solution_of_the_Three-Body_Problem_in_the_Case_of_Equal_Masses
+-The project was made by me, however, the idea came from this very interesting dev: https://www.youtube.com/c/SebastianLague
     </p>
