@@ -5,13 +5,13 @@
 So it´s basically a simulation of n-body systems with certain mass that attract each other. 
 <br>
 It´s all constructed using the Newton gravity equation **`F=G*m1*m2/r^2`** and force equation **`F=m*a`**
-<br>
+<br><br>
 <h1 align="center"><b>Realtime drawn trajectories </b>
 <br>
 
 -
 
-<br>
+<br><br>
 <h1 align="center"><b>Other cool stuff </b>
 <br>
     
