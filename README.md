@@ -6,10 +6,7 @@ So it´s basically a simulation of n-body systems with certain mass that attract
 <h1 align="center"><b>Realtime drawn trajectories </b>
 <br>
 
-- My name is  **`Diego`** and I´ve been around for 20 years.
-- I speak **`English and Spanish`** (mothertongue).
-- Junior **`Computer Science`** student at Basque Country University.
-- Still learning interesting things by myself as much as I can.
+-
 
 <br>
 <h1 align="center"><b>Other cool stuff </b>
