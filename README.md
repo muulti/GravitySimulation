@@ -3,6 +3,7 @@
 <br>  
 
 So it´s basically a simulation of n-body systems with certain mass that attract each other. 
+<br>
 It´s all constructed over the Newton gravity equations **`F=G*m1*m2/r^2`** and **`F=m*a`**
 <br>
 <h1 align="center"><b>Realtime drawn trajectories </b>
