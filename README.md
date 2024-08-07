@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vehicula magna vel justo tempor, quis egestas libero sodales. Vivamus vel urna et quam bibendum blandit. Fusce non ex lacus.
+    Trajectories drawn having in mind the influence of mass, position, velocity and your personal gravitatory constant haha.
     <br><br>
 
     ![2ORBITGIF](https://github.com/user-attachments/assets/2bdc295d-acd5-4498-8c37-0568ddfb9996)
@@ -31,7 +31,7 @@
 <br>
 
 <div align="center">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vehicula magna vel justo tempor, quis egestas libero sodales. Vivamus vel urna et quam bibendum blandit. Fusce non ex lacus.
+    Still working on this. You can choose one planet to center the camera and redraw the way the trajectories would be seen from that planet´s point of view.
     <br><br>
 
     ![RELATIVEGIF](https://github.com/user-attachments/assets/52d20932-0179-43ca-9b20-c219d9be0f3a)
@@ -42,6 +42,6 @@
 <br>
 
 <div align="center">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vehicula magna vel justo tempor, quis egestas libero sodales. Vivamus vel urna et quam bibendum blandit. Fusce non ex lacus.
+    So there´s a beautiful periodical solution to the popular 3-body problem. Hipnotizing right? There´s the paper down below.
     <br><br>
 </div>
