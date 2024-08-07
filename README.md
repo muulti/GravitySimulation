@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-    ![SIMPLEGIF](https://github.com/user-attachments/assets/88332cd7-2891-44f3-8c6d-9a9e013db4ec)
+    <img src="https://github.com/user-attachments/assets/88332cd7-2891-44f3-8c6d-9a9e013db4ec" alt="SIMPLEGIF">
     <br><br>
 </p>
 
