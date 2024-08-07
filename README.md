@@ -39,6 +39,19 @@
 <br>
 
 <div align="center">
-    So there´s a beautiful periodical solution to the popular 3-body problem. Hipnotizing right? There´s the paper down below.
+    So there´s a beautiful periodical solution to the popular 3-body problem.
+    <br>
+    Here it is.
+    <br>
+    <img src="https://github.com/user-attachments/assets/6b9e4fa6-2408-435b-9824-c72025046eb3" alt="8GIF">
+    <br>
+    Here it show how you would see those trajectories from one of the planets view.
+    <br>
+    <img src="https://github.com/user-attachments/assets/75973b3d-758e-4229-9e77-21ac180d0b32" alt="W8GIF">
+    <br>
+    Here´s the paper.
+    <br>
+    ![A remarkable periodic solution to the 3-body problem](https://github.com/user-attachments/assets/3f640b64-f1db-4acd-bd0f-cecdc0cbb697)
     <br><br>
+
 </div>
