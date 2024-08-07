@@ -12,7 +12,7 @@ It´s all constructed using the Newton gravity equation **`F=G*m1*m2/r^2`** and 
 
 <br><br>
 
-<h1 align="center"><b>Realtime drawn trajectories </b>
+<h2 align="center"><b>Realtime drawn trajectories </b>
 <br>
     
 ![2ORBITGIF](https://github.com/user-attachments/assets/2bdc295d-acd5-4498-8c37-0568ddfb9996)
@@ -22,13 +22,13 @@ It´s all constructed using the Newton gravity equation **`F=G*m1*m2/r^2`** and 
 ![LINERENDERERGIF](https://github.com/user-attachments/assets/98c9ff68-ba5e-491c-9e83-41bbc4d966a8)
 
 <br><br>
-<h1 align="center"><b>Relative point of view </b>
+<h2 align="center"><b>Relative point of view </b>
 <br>
     
 ![RELATIVEGIF](https://github.com/user-attachments/assets/52d20932-0179-43ca-9b20-c219d9be0f3a)
 
 <br><br>
-<h1 align="center"><b>Other cool stuff </b>
+<h2 align="center"><b>Other cool stuff </b>
 <br>
 
 
