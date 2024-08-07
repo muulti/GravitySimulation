@@ -52,5 +52,6 @@
 </p>
 <p align="left">
 -Here´s the paper: https://www.researchgate.net/publication/28135560_A_Remarkable_Periodic_Solution_of_the_Three-Body_Problem_in_the_Case_of_Equal_Masses
+    <br>
 -The project was made by me, however, the idea came from this very interesting dev: https://www.youtube.com/c/SebastianLague
     </p>
