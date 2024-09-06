@@ -33,7 +33,7 @@
     <br><br>
     <img src="https://github.com/user-attachments/assets/52d20932-0179-43ca-9b20-c219d9be0f3a" alt="RELATIVEGIF">
     <br><br>
-    <img src="https://github.com/user-attachments/assets/fb7f7431-5812-4ba3-85d5-e52b3ed91d44" alt="RELATIVEGIF">
+    <img src="https://github.com/user-attachments/assets/fb7f7431-5812-4ba3-85d5-e52b3ed91d44" alt="RELATIVEIMG">
     <br><br>
 </p>
 
